@@ -16,4 +16,4 @@ print("plese do not try this at home!!!!!")
 
 # IT WORKS!!!!
 # HORRAY!!!!!!
-#please don't try this at home
+#please try this at home
